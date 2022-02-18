@@ -1739,7 +1739,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   Yanma: {abilities: {0: 'Speed Boost'}},
   // gen 3 pokemon
   Absol: {
-    types: ['Dark'],
+    types: ['Dragon'],
     bs: {hp: 65, at: 130, df: 60, sa: 75, sd: 60, sp: 75},
     weightkg: 47,
     abilities: {0: 'Pressure'},
